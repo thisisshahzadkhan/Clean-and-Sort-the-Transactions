@@ -1,0 +1,22 @@
+{
+  "name": "clean-and-sort-the-transactions",
+  "version": "1.0.0",
+  "description": "Respond.io Task 2",
+  "main": "cleanAndSortTransactions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisisshahzadkhan/Clean-and-Sort-the-Transactions.git"
+  },
+  "author": "Shahzad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thisisshahzadkhan/Clean-and-Sort-the-Transactions/issues"
+  },
+  "homepage": "https://github.com/thisisshahzadkhan/Clean-and-Sort-the-Transactions#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
