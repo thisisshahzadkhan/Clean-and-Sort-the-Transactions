@@ -1,7 +1,7 @@
 const input = require('./exampleInput.json');
 const _ = require('lodash');
 
-function findDuplicateTransactions(input) {
+const findDuplicateTransactions = (input) => {
     // sort by time
     const transactions = _.sortBy(input, 'time');
     let key=1; //key used to time based grouping
